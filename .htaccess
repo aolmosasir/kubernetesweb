@@ -1,0 +1,2 @@
+SetEnv HTTP_DBUSER ""
+SetEnv HTTP_DBPASSWORD ""
